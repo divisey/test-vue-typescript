@@ -2,6 +2,7 @@
   "name": "test-typescript-vue",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/divisey/test-vue-typescript",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
