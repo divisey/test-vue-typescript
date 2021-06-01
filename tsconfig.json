@@ -1,0 +1,10 @@
+{
+  "extends": "@foxone/dev/config/tsconfig.base.json",
+
+  "compilerOptions": {
+    "module": "commonjs",
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "typeRoots": ["./node_modules/@types"]
+  }
+}
